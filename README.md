@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://jamesbaptiste.github.io/Portfolio-site%20copy/images/guessGame.gif" alt="Logo" width="500" height="700">
+    <img src="https://jamesbaptiste.github.io/Portfolio-site%20copy/images/guessGame.gif" alt="Logo" width="700" height="500">
   </a>
 <h1 align="center">Guess My Number!</h1>
 
