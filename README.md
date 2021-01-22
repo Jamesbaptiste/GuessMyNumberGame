@@ -29,7 +29,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Fun game where you have to try to guess the secret number between 1-20. Try to reach the heighest score of 20 by guessing the correct number on the first try!
+Fun game where you have to try to guess the secret number between 1-20. Try to reach the highest score of 20 by guessing the correct number on the first try!
 
 
 ### Built With
@@ -40,7 +40,7 @@ Fun game where you have to try to guess the secret number between 1-20. Try to r
 
 ### How To Use
 
-Begin by inputting any number between 1-20, then check if your guess is coreect. The game will let you know whether you've guessed too high or too low and allow you to continue guessing until you guess the correct answer. Good luck! :smile:
+Begin by guessing any number between 1-20, then check if your guess is coreect. The game will let you know whether you've guessed too high or too low and allow you to continue guessing until you guess the correct answer. Good luck! :smile:
 
 <!-- LIVE SITE -->
 ## Live Site
