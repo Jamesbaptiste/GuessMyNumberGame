@@ -29,8 +29,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Fun game where you have to try to guess the secret number between 1-20. Try to reach the heighest score of 20 by guessing the correct number on the first try!
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 ### Built With
 
@@ -39,7 +39,8 @@ There are many great README templates available on GitHub, however, I didn't fin
 * CSS
 
 ### How To Use
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+
+Begin by inputting any number between 1-20, then check if your guess is coreect. The game will let you know whether you've guessed too high or too low and allow you to continue guessing until you guess the correct answer. Good luck! :smile:
 
 <!-- LIVE SITE -->
 ## Live Site
